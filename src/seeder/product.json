@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Basic Tee",
+    "price": 10,
+    "type": "Clothing"
+  },
+  {
+    "name": "Coffee Mug",
+    "price": 12,
+    "type": "Household"
+  },
+  {
+    "name": "Notebook",
+    "price": 15,
+    "type": "Books"
+  },
+  {
+    "name": "Red Lable",
+    "price": 100,
+    "type": "Alcoholic"
+  },
+  {
+    "name": "Desk",
+    "price": 1000,
+    "type": "Furniture"
+  },
+  {
+    "name": "Basketball",
+    "price": 150,
+    "type": "Sports"
+  },
+  {
+    "name": "Lotion",
+    "price": 100,
+    "type": "Beauty"
+  },
+  {
+    "name": "Tomato",
+    "price": 100,
+    "type": "Grocery"
+  },
+   {
+    "name": "Car",
+    "price": 10000,
+    "type": "Automotive"
+  },
+   {
+    "name": "iPhone",
+    "price": 1000,
+    "type": "Electronics"
+  }
+]
